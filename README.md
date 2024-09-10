@@ -1040,148 +1040,185 @@ https://top2.mizhls.ru/top2/premium585/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://top2.mizhls.ru/top2/premium586/index.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="TEST",Bein Sport1
+
+======================= PENGGEMAR BOLA ===============================================================================
+
+#EXTINF:-1 group-title="PENGGEMAR BOLA" tvg-id="premier1.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.png",1.True Premier Football 1
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
+https://playidtv24.vercel.app/stream/now/premier1.m3u8
+
+#EXTINF:-1 group-title="PENGGEMAR BOLA" tvg-id="premier1.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.png",2.True Premier football 2
+https://playidtv24.vercel.app/stream/now/premier2.m3u8
+
+#EXTINF:-1 group-title="PENGGEMAR BOLA" tvg-id="premier3.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.webp",3.True PremierHD 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://playidtv24.vercel.app/stream/now/premier3.m3u8
+
+#EXTINF:-1 group-title="PENGGEMAR BOLA" tvg-id="premier4.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/bb0beb90-e966-11ed-993c-b59183950f79_webp_original.webp",4.True PremierHD 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://playidtv24.vercel.app/stream/now/premier4.m3u8
+
+#EXTINF:-1 group-title="PENGGEMAR BOLA" tvg-id="premier5.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.webp",5.True PremierHD 5
+#EXTVLCOPT:http-referrer=https://7mthai.net
+https://playidtv24.vercel.app/stream/now/premier5.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="PENGGEMAR BOLA",Bein Sport1
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://ddy6.mizhls.ru/ddy6/premium91/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="" group-title="TEST",Bein Sport2
+
+#EXTINF:0 tvg-logo="" group-title="PENGGEMAR BOLA",Bein Sport2
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://ddy6.mizhls.ru/ddy6/premium92/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="" group-title="TEST",Bein Sport3
+
+#EXTINF:0 tvg-logo="" group-title="PENGGEMAR BOLA",Bein Sport3
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://ddy6.mizhls.ru/ddy6/premium93/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="" group-title="TEST",Bein Sport4
+
+#EXTINF:0 tvg-logo="" group-title="PENGGEMAR BOLA",Bein Sport4
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://ddy6.mizhls.ru/ddy6/premium94/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="" group-title="TEST",Bein Sport5
+
+#EXTINF:0 tvg-logo="" group-title="PENGGEMAR BOLA",Bein Sport5
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://ddy6.mizhls.ru/ddy6/premium95/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="" group-title="TEST",Bein Sport6
+
+#EXTINF:0 tvg-logo="" group-title="PENGGEMAR BOLA",Bein Sport6
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://ddy6.mizhls.ru/ddy6/premium96/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="" group-title="TEST",Bein Sport7
+
+#EXTINF:0 tvg-logo="" group-title="PENGGEMAR BOLA",Bein Sport7
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://ddy6.mizhls.ru/ddy6/premium97/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="" group-title="TEST",Bein Sport8
+
+#EXTINF:0 tvg-logo="" group-title="PENGGEMAR BOLA",Bein Sport8
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://ddy6.mizhls.ru/ddy6/premium98/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="" group-title="TEST",Bein Sport9
+
+#EXTINF:0 tvg-logo="" group-title="PENGGEMAR BOLA",Bein Sport9
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://ddy6.mizhls.ru/ddy6/premium99/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="" group-title="TEST",Bein Sport10
+
+#EXTINF:0 tvg-logo="" group-title="PENGGEMAR BOLA",Bein Sport10
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://ddy6.mizhls.ru/ddy6/premium100/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.cable.co.uk/images/content/sky_sports_branded_landscape_min.jpg",Sky Premier League Alt
+#EXTINF:-1 group-title="PENGGEMAR BOLA" tvg-logo="https://www.cable.co.uk/images/content/sky_sports_branded_landscape_min.jpg",Sky Premier League Alt
 https://tvnid-stream.mantan.workers.dev/Sky_Sports_Premier_League/index.m3u8
 
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.cable.co.uk/images/content/sky_sports_branded_landscape_min.jpg",Sky Main Event Alt
+#EXTINF:-1 group-title="PENGGEMAR BOLA" tvg-logo="https://www.cable.co.uk/images/content/sky_sports_branded_landscape_min.jpg",Sky Main Event Alt
 https://tvnid-stream.mantan.workers.dev/Sky_Sports_Main_Event/index.m3u8
 
-#EXTINF:-1 group-title="TEST" tvg-logo="https://media.licdn.com/dms/image/D4E12AQEhks58OYh-VA/article-cover_image-shrink_600_2000/0/1675754661604?e=2147483647&v=beta&t=TP-JVPPHu7qWFAl9wXMbwVeXiucdQ8Uh253TvCBm2U8",SuperSports Premier League
+#EXTINF:-1 group-title="PENGGEMAR BOLA" tvg-logo="https://media.licdn.com/dms/image/D4E12AQEhks58OYh-VA/article-cover_image-shrink_600_2000/0/1675754661604?e=2147483647&v=beta&t=TP-JVPPHu7qWFAl9wXMbwVeXiucdQ8Uh253TvCBm2U8",SuperSports Premier League
 https://vipgoodlive-tvs.creativehub.sbs/SuperSport_Premier_League_Live_TV/index.m3u8
 https://tvnid-stream.mantan.workers.dev/SuperSport_Premier_League_Live_TV/index.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://media.licdn.com/dms/image/D4E12AQEhks58OYh-VA/article-cover_image-shrink_600_2000/0/1675754661604?e=2147483647&v=beta&t=TP-JVPPHu7qWFAl9wXMbwVeXiucdQ8Uh253TvCBm2U8",SuperSports Laliga
-https://vipgoodlive-tvs.creativehub.sbs/SuperSport_LaLiga_Live_TV/index.m3u8
-https://tvnid-stream.mantan.workers.dev/SuperSport_LaLiga_Live_TV/index.m3u8
 
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.cable.co.uk/images/content/sky_sports_branded_landscape_min.jpg",Sky Football Alt
-https://tvnid-stream.mantan.workers.dev/Sky_Sports_Football_Live_TV/index.m3u8
 
-#EXTINF:-1 tvg-chno="73" tvg-name="PT | Eleven 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="TEST", DAZN SPORT 1
+
+#EXTINF:-1 tvg-chno="73" tvg-name="PT | Eleven 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="PENGGEMAR BOLA", DAZN SPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 https://ddy6.mizhls.ru/ddy6/premium455/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno="73.1" tvg-name="PT | Eleven 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="TEST", DAZN SPORT 2
+#EXTINF:-1 tvg-chno="73.1" tvg-name="PT | Eleven 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="PENGGEMAR BOLA", DAZN SPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 https://ddy5.mizhls.ru/ddy5/premium456/tracks-v1/mono.m3u8
 
-#EXTINF:-1 tvg-chno="73.2" tvg-name="PT | Eleven 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="TEST", DAZN SPORT 3
+#EXTINF:-1 tvg-chno="73.2" tvg-name="PT | Eleven 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="PENGGEMAR BOLA", DAZN SPORT 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 https://ddy5.mizhls.ru/ddy5/premium457/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Eleven Sports 1 Poland" tvg-logo="" group-title="TEST",Eleven Sports 1 Poland
+
+#EXTINF:-1 tvg-name="Eleven Sports 1 Poland" tvg-logo="" group-title="PENGGEMAR BOLA",Eleven Sports 1 Poland
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 https://ddy5.mizhls.ru/ddy5/premium71/index.m3u8
-#EXTINF:-1 tvg-name="Eleven Sports 2 Poland" tvg-logo="" group-title="TEST",Eleven Sports 2 Poland
+
+#EXTINF:-1 tvg-name="Eleven Sports 2 Poland" tvg-logo="" group-title="PENGGEMAR BOLA",Eleven Sports 2 Poland
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 https://ddy5.mizhls.ru/ddy5/premium72/index.m3u8
-#EXTINF:-1 tvg-name="Eleven Sports 3 Poland" tvg-logo="" group-title="TEST",Eleven Sports 3 Poland
+
+#EXTINF:-1 tvg-name="Eleven Sports 3 Poland" tvg-logo="" group-title="PENGGEMAR BOLA",Eleven Sports 3 Poland
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 https://ddy6.mizhls.ru/ddy6/premium428/index.m3u8
-#EXTINF:-1 tvg-name="EuroSport 1 Italy" tvg-logo="" group-title="TEST",EuroSport 1 Italy
+
+#EXTINF:-1 tvg-name="EuroSport 1 Italy" tvg-logo="" group-title="PENGGEMAR BOLA",EuroSport 1 Italy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 https://ddy5.mizhls.ru/ddy5/premium878/index.m3u8
-#EXTINF:-1 tvg-name="EuroSport 2 Italy" tvg-logo="" group-title="TEST",EuroSport 2 Italy
+
+#EXTINF:-1 tvg-name="EuroSport 2 Italy" tvg-logo="" group-title="PENGGEMAR BOLA",EuroSport 2 Italy
 https://ddy5.mizhls.ru/ddy5/premium879/index.m3u8?|User-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8&Referer=https://qqwebplay.xyz/
-#EXTINF:-1 tvg-name="FOX Sports 505 AU" tvg-logo="" group-title="TEST",FOX Sports 505 AU
+
+#EXTINF:-1 tvg-name="FOX Sports 505 AU" tvg-logo="" group-title="PENGGEMAR BOLA",FOX Sports 505 AU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 https://ddy5.mizhls.ru/ddy5/premium823/index.m3u8
-#EXTINF:-1 tvg-name="FOX Sports 506 AU" tvg-logo="" group-title="TEST",FOX Sports 506 AU
+
+#EXTINF:-1 tvg-name="FOX Sports 506 AU" tvg-logo="" group-title="PENGGEMAR BOLA",FOX Sports 506 AU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 https://ddy5.mizhls.ru/ddy5/premium824/index.m3u8
-#EXTINF:-1 tvg-name="FOX Sports 507 AU" tvg-logo="" group-title="TEST",FOX Sports 507 AU
+#EXTINF:-1 tvg-name="FOX Sports 507 AU" tvg-logo="" group-title="PENGGEMAR BOLA",FOX Sports 507 AU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 https://ddy5.mizhls.ru/ddy5/premium825/index.m3u8
-#EXTINF:-1 tvg-name="SuperSport Premier league" tvg-logo="" group-title="TEST",SuperSport Premier league 
+#EXTINF:-1 tvg-name="SuperSport Premier league" tvg-logo="" group-title="PENGGEMAR BOLA",SuperSport Premier league 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 https://ddy6.mizhls.ru/ddy6/premium414/index.m3u8
-#EXTINF:-1 tvg-name="Sky Sport Calcio Italy" tvg-logo="" group-title="TEST",Sky Sport Calcio Italy
+
+#EXTINF:-1 tvg-name="Sky Sport Calcio Italy" tvg-logo="" group-title="PENGGEMAR BOLA",Sky Sport Calcio Italy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 https://ddy5.mizhls.ru/ddy5/premium870/index.m3u8
-#EXTINF:-1 tvg-name="Sky Serie Italy" tvg-logo="" group-title="TEST",Sky Serie Italy
+
+#EXTINF:-1 tvg-name="Sky Serie Italy" tvg-logo="" group-title="PENGGEMAR BOLA",Sky Serie Italy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 https://ddy5.mizhls.ru/ddy5/premium880/index.m3u8
-#EXTINF:-1 tvg-name="Nova Sports Premier League Greece" tvg-logo="" group-title="TEST",Nova Sports Premier League Greece
+
+#EXTINF:-1 tvg-name="Nova Sports Premier League Greece" tvg-logo="" group-title="PENGGEMAR BOLA",Nova Sports Premier League Greece
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 https://ddy2.mizhls.ru/ddy2/premium599/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="TEST", OPTUS 1 Australia
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="PENGGEMAR BOLA", OPTUS 1 Australia
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37401.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="TEST", OPTUS 3 Australia
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="PENGGEMAR BOLA", OPTUS 3 Australia
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37399.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="TEST", OPTUS 4 Australia
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="PENGGEMAR BOLA", OPTUS 4 Australia
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37398.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="TEST", OPTUS 5 Australia
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="PENGGEMAR BOLA", OPTUS 5 Australia
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37397.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="TEST", OPTUS 6 Australia
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="PENGGEMAR BOLA", OPTUS 6 Australia
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37396.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0lZPPwAjEt3nIdBZoYPjV0ou0IaCSVWkXtw&usqp=CAU" group-title="TEST", CHAMPIONS LEAGUE 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0lZPPwAjEt3nIdBZoYPjV0ou0IaCSVWkXtw&usqp=CAU" group-title="PENGGEMAR BOLA", CHAMPIONS LEAGUE 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b8ce4a30a01a52e082:e926f7d45af4f7d154c990eae6a2d937
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0lZPPwAjEt3nIdBZoYPjV0ou0IaCSVWkXtw&usqp=CAU" group-title="TEST", CHAMPIONS LEAGUE 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0lZPPwAjEt3nIdBZoYPjV0ou0IaCSVWkXtw&usqp=CAU" group-title="PENGGEMAR BOLA", CHAMPIONS LEAGUE 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1189,81 +1226,159 @@ https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manife
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-u1/u1-dash-widevine.isml/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0lZPPwAjEt3nIdBZoYPjV0ou0IaCSVWkXtw&usqp=CAU" group-title="TEST", CHAMPIONS LEAGUE 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0lZPPwAjEt3nIdBZoYPjV0ou0IaCSVWkXtw&usqp=CAU" group-title="PENGGEMAR BOLA", CHAMPIONS LEAGUE 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b834b0f0c2bfee80ac:76b3afbf163f9c3feb6204b8fcf0ff53
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-u2/u2-dash-widevine.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0lZPPwAjEt3nIdBZoYPjV0ou0IaCSVWkXtw&usqp=CAU" group-title="TEST", CHAMPIONS LEAGUE 4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0lZPPwAjEt3nIdBZoYPjV0ou0IaCSVWkXtw&usqp=CAU" group-title="PENGGEMAR BOLA", CHAMPIONS LEAGUE 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b8342d78d46c8c202a:8d2e953821d36c942161be09930d2bd4
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-u3/u3-dash-widevine.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0lZPPwAjEt3nIdBZoYPjV0ou0IaCSVWkXtw&usqp=CAU" group-title="TEST", CHAMPIONS LEAGUE 5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0lZPPwAjEt3nIdBZoYPjV0ou0IaCSVWkXtw&usqp=CAU" group-title="PENGGEMAR BOLA", CHAMPIONS LEAGUE 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b834357864bc2ae0a8:ae7bec66e4ac23f3d243fa6e4d767a00
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-u4/u4-dash-widevine.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0lZPPwAjEt3nIdBZoYPjV0ou0IaCSVWkXtw&usqp=CAU" group-title="TEST", CHAMPIONS LEAGUE 6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0lZPPwAjEt3nIdBZoYPjV0ou0IaCSVWkXtw&usqp=CAU" group-title="PENGGEMAR BOLA", CHAMPIONS LEAGUE 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b834b278760c5ba026:a9ab51a9e021da177f982de9b42eb0de
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-u5/u5-dash-widevine.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0lZPPwAjEt3nIdBZoYPjV0ou0IaCSVWkXtw&usqp=CAU" group-title="TEST", CHAMPIONS LEAGUE 7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0lZPPwAjEt3nIdBZoYPjV0ou0IaCSVWkXtw&usqp=CAU" group-title="PENGGEMAR BOLA", CHAMPIONS LEAGUE 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b834ba7888b9f960a4:852ebe5446caa8fad99c440b86ad128c
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-u6/u6-dash-widevine.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="AstroSupersport" tvg-name="Astro SuperSport" tvg-logo="https://i.imgur.com/YqQIrY0.png" group-title="TEST",Astro SuperSport 1
+#EXTINF:-1 tvg-id="AstroSupersport" tvg-name="Astro SuperSport" tvg-logo="https://i.imgur.com/YqQIrY0.png" group-title="PENGGEMAR BOLA",Astro SuperSport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 https://webhdrus.onlinehdhls.ru/lb/premium123/index.m3u8|Origin=https://qqwebplay.xyz
-#EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="Astro SuperSport 2" tvg-logo="https://i.imgur.com/4wXmnDY.png" group-title="TEST",Astro SuperSport 2
+
+#EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="Astro SuperSport 2" tvg-logo="https://i.imgur.com/4wXmnDY.png" group-title="PENGGEMAR BOLA",Astro SuperSport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 https://webhdrus.onlinehdhls.ru/lb/premium124/index.m3u8|Origin=https://qqwebplay.xyz
-#EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="Astro SuperSport 3" tvg-logo="https://i.imgur.com/3SFILZl.png" group-title="TEST",Astro SuperSport 3
+
+#EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="Astro SuperSport 3" tvg-logo="https://i.imgur.com/3SFILZl.png" group-title="PENGGEMAR BOLA",Astro SuperSport 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 https://webhdrus.onlinehdhls.ru/lb/premium125/index.m3u8|Origin=https://qqwebplay.xyz
-#EXTINF:-1 tvg-id="AstroSupersport4" tvg-name="Astro SuperSport 4" tvg-logo="https://i.imgur.com/v6cGRFh.png" group-title="TEST",Astro SuperSport 4
+
+#EXTINF:-1 tvg-id="AstroSupersport4" tvg-name="Astro SuperSport 4" tvg-logo="https://i.imgur.com/v6cGRFh.png" group-title="PENGGEMAR BOLA",Astro SuperSport 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 https://webhdrus.onlinehdhls.ru/lb/premium126/index.m3u8|Origin=https://qqwebplay.xyz
-#EXTINF:-1 tvg-id="AstroSupersport5" tvg-name="Astro SuperSport 5" tvg-logo="https://i.imgur.com/jb1igcv.png" group-title="TEST",Astro SuperSport 5
+
+#EXTINF:-1 tvg-id="AstroSupersport5" tvg-name="Astro SuperSport 5" tvg-logo="https://i.imgur.com/jb1igcv.png" group-title="PENGGEMAR BOLA",Astro SuperSport 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 https://webhdrus.onlinehdhls.ru/lb/premium43/index.m3u8|Origin=https://qqwebplay.xyz
 
-#EXTINF:-1 tvg-name="Astro SuperSport 1" tvg-logo="https://i.imgur.com/YqQIrY0.png" group-title="TEST",Astro SuperSport 1
+#EXTINF:-1 tvg-name="Astro SuperSport 1" tvg-logo="https://i.imgur.com/YqQIrY0.png" group-title="PENGGEMAR BOLA",Astro SuperSport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 https://ddy1.mizhls.ru/ddy1/premium123/index.m3u8
 
-#EXTINF:-1 tvg-name="Astro SuperSport 2" tvg-logo="https://i.imgur.com/4wXmnDY.png" group-title="TEST",Astro SuperSport 2
+#EXTINF:-1 tvg-name="Astro SuperSport 2" tvg-logo="https://i.imgur.com/4wXmnDY.png" group-title="PENGGEMAR BOLA",Astro SuperSport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 https://eu-fls4.mizhls.ru/eu-fls4/premium124/index.m3u8
 
-#EXTINF:-1 tvg-name="Astro SuperSport 3" tvg-logo="https://i.imgur.com/3SFILZl.png" group-title="TEST",Astro SuperSport 3
+#EXTINF:-1 tvg-name="Astro SuperSport 3" tvg-logo="https://i.imgur.com/3SFILZl.png" group-title="PENGGEMAR BOLA",Astro SuperSport 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 https://ddy1.mizhls.ru/ddy1/premium125/index.m3u8
 
-#EXTINF:-1 tvg-name="Astro SuperSport 4" tvg-logo="https://i.imgur.com/v6cGRFh.png" group-title="TEST",Astro SuperSport 4
+#EXTINF:-1 tvg-name="Astro SuperSport 4" tvg-logo="https://i.imgur.com/v6cGRFh.png" group-title="PENGGEMAR BOLA",Astro SuperSport 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 https://ddy1.mizhls.ru/ddy1/premium126/index.m3u8
+
+
+#EXTINF:-1 group-title="PENGGEMAR BOLA" tvg-logo="https://static.wikia.nocookie.net/youtube/images/2/22/NBC.jpg/revision/latest?cb=20230910112737", NBC Sport Peacock
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
+
+
+#EXTINF:-1 group-title="PENGGEMAR BOLA" group-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png", Peacock
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+
+#EXTINF:-1 group-title="PENGGEMAR BOLA" group-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png", Peacock
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+
+
+#EXTINF:-1 group-title="PENGGEMAR BOLA" tvg-id="" tvg-logo="https://media.tenor.com/33gJyOCSrIYAAAAi/live.gif",TNT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+
+
+#EXTINF:-1 group-title="PENGGEMAR BOLA" tvg-id="dazn1_spain" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1027457605030_image-header_pEs_1661945409000&quality=70&width=500",🇪🇸 DAZN 1 Spain
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
+
+#EXTINF:-1 group-title="PENGGEMAR BOLA" tvg-id="dazn2_spain" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1027457605032_image-header_pEs_1661946616000&quality=70&width=500",🇪🇸 DAZN 2 Spain
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
+
+#EXTINF:-1 group-title="PENGGEMAR BOLA" tvg-id="dazn3_spain" tvg-logo="https://i.imgur.com/RHORZXz.png",DAZN 3 Spain
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bad8efff688c0dbb3711e4a7114c22a3:6ba800673b20776c0c850130d45e1920
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/zy1ee5sshp/out/v1/bdcffa69fa3b4f3bb3569c9c73ee1c01/cenc.mpd
+
+#EXTINF:-1 group-title="PENGGEMAR BOLA" tvg-id="dazn4_spain" tvg-logo="https://i.imgur.com/0vvP4SE.png",🇪🇸 DAZN 4 Spain
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d27104d427e4f87e75b19395a9f8796b:723593c70e2d4c4862754398e80168f8
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/up7qpwch9b/out/v1/a6d5d1a1287b4893b859c2d6ccf2c65d/cenc.mpd
+
+#EXTINF:-1 group-title="PENGGEMAR BOLA" tvg-id="dazn_laliga" tvg-logo="https://i.imgur.com/srx5bGb.png",🇪🇸 DAZN LaLiga
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
+
+#EXTINF:-1 group-title="PENGGEMAR BOLA" tvg-id="laliga_hypermotion" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1tf4qe1um8p017gmjh0fniqns_image-header_pEs_1704473541000&quality=70",🇪🇸 LaLiga TV Hypermotion
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d08b265a6639e32da7c880d5491e3d2:0c92556ca14b95f367993710e7cfbc94
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/tu06vubgf9/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
+
+
+#EXTINF:-1 group-title="PENGGEMAR BOLA" tvg-id="laliga_hypermotion2" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1tf4qe1um8p017gmjh0fniqns_image-header_pEs_1704473541000&quality=70",🇪🇸 LaLiga TV Hypermotion 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b1fdeaee3ffc51e9a66cf1938d57aaf:28e3cb88ab7b476b81ab8aa0624c4d71
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd
+
+#EXTINF:-1 group-title="PENGGEMAR BOLA" tvg-id="laliga_hypermotion3" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1tf4qe1um8p017gmjh0fniqns_image-header_pEs_1704473541000&quality=70",🇪🇸 LaLiga TV Hypermotion 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
+
  
 ======================================KIDS================================================
  
